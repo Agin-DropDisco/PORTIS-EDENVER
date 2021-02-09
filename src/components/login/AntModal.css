@@ -1,0 +1,5 @@
+@media (max-width: 767px) {
+.ant-modal {
+    max-width: 320px;
+}
+}
