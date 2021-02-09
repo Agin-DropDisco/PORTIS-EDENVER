@@ -7,9 +7,17 @@
 
 ### Team Name : The Weird Brother
 
-### Member : Adinda Ratnawati Ridwan || email: adinda.ratna.info@gmail.com || Linkedin: https://www.linkedin.com/in/adinda-ratnawati-ridwan-20a980170
+### Member : Adinda Ratnawati Ridwan 
 
-### Member : Agin DropDisco || email: dropdisco1408@gmail.com || Linkedin: https://www.linkedin.com/in/agin-dropdisco-5555b7171/
+|| email: adinda.ratna.info@gmail.com 
+
+|| Linkedin: https://www.linkedin.com/in/adinda-ratnawati-ridwan-20a980170
+
+### Member : Agin DropDisco 
+
+|| email: dropdisco1408@gmail.com 
+
+|| Linkedin: https://www.linkedin.com/in/agin-dropdisco-5555b7171/
 ---
 
 >
