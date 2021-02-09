@@ -18,6 +18,7 @@
 || email: dropdisco1408@gmail.com 
 
 || Linkedin: https://www.linkedin.com/in/agin-dropdisco-5555b7171/
+
 ---
 
 >
