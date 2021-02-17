@@ -4,6 +4,8 @@
 
 > Dapp Name : MAXbeam
 ---
+[LIVE DEMO](https://maxbeam-portis.web.app)
+
 
 ### Team Name : The Weird Brother
 
@@ -20,7 +22,7 @@
 || Linkedin: https://www.linkedin.com/in/agin-dropdisco-5555b7171/
 
 
-[LIVE DEMO](https://maxbeam-portis.web.app)
+
 ---
 
 >
